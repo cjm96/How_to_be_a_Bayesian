@@ -8,4 +8,4 @@ The introductory slides are in the document slides.pdf
 
 The documents MCMC.pdf and NestedSampling.pdf contain some extra material on some stochastic sampling algorithms.
 
-The Jupyter notebook notebook.ipynb (written in Python) contains the main example used in the session.
+The Jupyter notebook Bayesian.ipynb (written in Python) contains the main example used in the session.
